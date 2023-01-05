@@ -33,9 +33,9 @@ _____
 ## 24 January
 
 ### Readings for presentation and discussion
-* Alan Liu, "Imagining the New Media Encounter," in _Companion to Digital Literary Studies_, ed. Susan Schreibman and Ray Siemens 
+* [P] Alan Liu, "Imagining the New Media Encounter," in _Companion to Digital Literary Studies_, ed. Susan Schreibman and Ray Siemens 
 (Oxford: Blackwell, 2008), <http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-3-1&toc.id=0&brand=9781405148641_brand>{:target="_blank"}.
-* Julia Flanders, “Collaboration and Dissent: Challenges of Collaborative Standards for Digital
+* [P] Julia Flanders, “Collaboration and Dissent: Challenges of Collaborative Standards for Digital
 Humanities,” _Collaborative Research in the Digital Humanities_, ed. Willard McCarty and Marilyn Deegan (Farnham, Surrey, England: 
 Ashgate, 2011), <https://ebookcentral.proquest.com/lib/tamucs/reader.action?docID=879680&ppg=80>{:target="_blank"}.
 
@@ -52,8 +52,8 @@ _____
 ## 31 January
 
 ### Readings for presentation and discussion
-* David Birnbaum, "What is XML and why should humanists care? An even gentler introduction to XML," August 28, 2015, <http://dh.obdurodon.org/what-is-xml.xhtml>{:target="_blank"}.
-* Charlotte Roueché, “Why Do We Mark Up Texts?,” in _Collaborative Research in the Digital Humanities_,
+* [P] David Birnbaum, "What is XML and why should humanists care? An even gentler introduction to XML," August 28, 2015, <http://dh.obdurodon.org/what-is-xml.xhtml>{:target="_blank"}.
+* [P] Charlotte Roueché, “Why Do We Mark Up Texts?,” in _Collaborative Research in the Digital Humanities_,
 ed. Willard McCarty and Marilyn Deegan (Farnham, Surrey, England: Ashgate, 2011), <https://ebookcentral.proquest.com/lib/tamucs/reader.action?docID=879680&ppg=168>{:target="_blank"}.
 * _XQuery for Humanists_, Chs. 1-2.
 
@@ -74,6 +74,7 @@ ed. Willard McCarty and Marilyn Deegan (Farnham, Surrey, England: Ashgate, 2011)
 _____
 ## 7 February
 ### Readings for presentation and discussion
+* [P] Stephen Robertson and Lincoln Mullen, "[Arguing with Digital History: Patterns of Historical Interpretation](https://doi.org/10.1093/jsh/shab015){:target="_blank"}," _Journal of Social History_, Volume 54, Issue 4, Summer 2021, Pages 1005–1022. 
 * Lou Burnard, “[Introduction](https://books.openedition.org/oep/679){:target="_blank"}," 
 "[TEI and XML](https://books.openedition.org/oep/680){:target="_blank"}," 
 "[The Structural Organization of a TEI Document](https://books.openedition.org/oep/681){:target="_blank"}," and 
@@ -112,7 +113,7 @@ _____
 ## 21 February
 
 ### Readings for presentation and discussion
-* James Baker, "Preserving Your Research Data," _Programming Historian_ 3 (2014), <https://doi.org/10.46430/phen0039>{:target="_blank"}.
+* [P] James Baker, "Preserving Your Research Data," _Programming Historian_ 3 (2014), <https://doi.org/10.46430/phen0039>{:target="_blank"}.
 * Lou Burnard, “[The TEI Header](https://books.openedition.org/oep/691){:target="_blank"}," in _What Is the Text Encoding Initiative?_
 
 ### _Ludi_ prep
@@ -202,6 +203,7 @@ _____
 ## 4 April
 
 ### Readings for presentation and discussion
+* [P] Kirstyn J. Leuner, "[Locating Women’s Book History in The Stainforth Library of Women’s Writing](https://muse-jhu-edu.srv-proxy1.library.tamu.edu/article/799650){:target="_blank"}," _Studies in English Literature 1500-1900_, 60.4 (2020).
 * Notice of Funding Opportunity (NOFO), NEH, [Digital Humanities Advancement Grants](https://www.neh.gov/sites/default/files/inline-files/DHAG%202023%20.pdf){:target="_blank"}.
 * Lisa Spiro, “[Tips on Writing a Successful Grant Proposal](https://digitalscholarship.wordpress.com/2008/09/09/tips-on-writing-a-successful-grant-proposal/){:target="_blank"}."
 
@@ -226,6 +228,7 @@ _____
 ## 11 April
 
 ### Readings for presentation and discussion
+* [P] Daniel J. Story, Jo Guldi, Tim Hitchcock, and Michelle Moravec, "[History’s Future in the Age of the Internet](https://academic.oup.com/ahr/article/125/4/1337/5933592){:target="_blank"}", _The American Historical Review_, 125.4 (2020), 1337–46.
 * Wendell Piez and Debbie Lapeyre, “Introduction to Schematron”
 * Elisa Beshero-Bondar, “Guide to Schema Writing with Schematron”
 
@@ -244,6 +247,7 @@ _____
 ## 18 April
 
 ### Readings for presentation and discussion
+* [P] Richard Jean So, "[Introduction: Contemporary Culture After Data Science](https://culturalanalytics.org/article/22335-introduction-contemporary-culture-after-data-science){:target="_blank"}", _Journal of Cultural Analytics_, 6.2 (2021).
 * XQuery for Humanists, pp. 176-91
 
 ### Assignment/_Ludi_ prep 
