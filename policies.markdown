@@ -19,11 +19,10 @@ _____
 |  | Assessment |
 | :---: | :------- |
 | 15% | Class Participation |
-| 10% | [GitHub Pages Project](../pages) |
-| 10% | [Skill(s) Presentation](../skills) |
-| 35% | [TEI Encoding](../encoding) |
+| 30% | [TEI Encoding](../encoding) |
 | 20% | [ODD Customization](../odd) |
-| 10% | [Documentation Wiki](../wiki) |
+| 25% | [About Page Assignment](../about-page)|
+| 10% | [Project Presentation](../presentation)|
 
 
 |  | Grading Scale |

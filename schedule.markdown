@@ -42,9 +42,11 @@ Ashgate, 2011), <https://ebookcentral.proquest.com/lib/tamucs/reader.action?docI
 
 ### _Ludi_ prep
 * Aaron Stewart, "Learning GitHub," _inLearning_, May 14, 2019, <https://www.linkedin.com/learning/learning-github>{:target="_blank"}.
+* [About page assignment](../about-page/)
 
 ### _Ludi_ 
 * Practice cloning GitHub repos, making branches, making changes, committing changes, pushing to GitHub, and merging branches.
+* GitHub pages
 
 _____
 ## 31 January
@@ -284,4 +286,4 @@ _____
 ### Final Projects Due
 * [TEI Encoding Assignment](../encoding/)
 * [ODD Customization](../odd/)
-* [Documentation Wiki](../wiki/)
+* [About Page](../about/)
