@@ -236,8 +236,6 @@ _____
 * TEI Customization: Schematron
 	* [Powerpoint](https://docs.google.com/presentation/d/10z8z4x_lP6wMAtP78l2aYuRQ6WCxHojr_14nfH-MzAw/edit?usp=sharing){:target="_blank"}
 
-Programing Assignment Due:
-(G) Graduate students need to complete a lesson from The Programming Historian and present it to the class. 
 
 
 _____
