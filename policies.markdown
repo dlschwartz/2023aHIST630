@@ -18,7 +18,7 @@ _____
 
 |  | Assessment |
 | :---: | :------- |
-| 15% | Class Participation |
+| 15% | [Class Participation](../participation) |
 | 30% | [TEI Encoding](../encoding) |
 | 20% | [ODD Customization](../odd) |
 | 25% | [About Page Assignment](../about-page)|

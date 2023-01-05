@@ -5,7 +5,7 @@ hidden: false
 permalink: /assignments/
 ---
 
-
+## [Class Participation](../participation)
 
 ## [TEI Encoding](../encoding)  
 
