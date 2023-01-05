@@ -13,7 +13,7 @@ permalink: /schedule/
 | [18 Apr](#18-april) | [25 Apr](#25-april) | [2 May](#2-may) | [5 May](#5-may): Coursework due |
 
 _____
-## 17 January
+## 17 January 
 
 ### Discussion
 * Introduction to Digital Humanities and Public History
@@ -22,6 +22,7 @@ _____
 ### _Ludi_ (on "_Ludi_" see ["Expectations"](../#expectations) on the home page)
 * Installing oXygen XML Editor
 * Setting up a GitHub account
+* Setting up GitHub Pages
 
 _____
 ## 24 January
@@ -57,6 +58,7 @@ _____
 * Sarah Simpkin, "Getting Started with Markdown," _The Programming Historian_ 4 (2015), <https://programminghistorian.org/en/lessons/getting-started-with-markdown>{:target="_blank"}.
 * Peruse the following: Harrak, Amir. “Edessa,” in _Gorgias Encyclopedic Dictionary of the Syriac Heritage: Electronic Edition_, ed. Sebastian P. Brock, Aaron M. Butts, George A. Kiraz and Lucas Van Rompay 
 (Gorgias Press, 2011; online ed. Beth Mardutho, 2018), <https://gedsh.bethmardutho.org/Edessa>{:target="_blank"}. See also <https://gedsh.bethmardutho.org/Edessa/tei>{:target="_blank"}.
+* Peruse [Willa Cather Archive](https://cather.unl.edu/){:target="_blank"}.
 
 ### _Ludi_ 
 * Markdown exercises
@@ -71,12 +73,14 @@ _____
 "[The Structural Organization of a TEI Document](https://books.openedition.org/oep/681){:target="_blank"}," and 
 "[Varieties of Textual Structure](https://books.openedition.org/oep/688){:target="_blank"}," in _What Is the Text Encoding Initiative?_
 * “[Introduction to Text Encoding and the TEI](https://teibyexample.org/tutorials/TBED00v00.htm){:target="_blank"},” TEI by Example, January 19, 2018.
+* Look at all three presentations in "[Designing Your First Project](https://devdh.org/lectures/design/){:target="_blank"}," in DevDH.org.
 
 ### _Ludi_ prep
 * Joe Marini, "[XML Essential Training](https://www.linkedin.com/learning/xml-essential-training-2/welcome?u=74650722){:target="_blank"}," _inLearning_.
 
 ### _Ludi_ 
 * Using oXygen XML Editor to mark up texts using the TEI
+* Optical Character Recognition (OCR)
 
 
 
