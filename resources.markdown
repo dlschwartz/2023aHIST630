@@ -30,9 +30,9 @@ humanities research methodologies.
 * RegexOne: Learn Regular Expressions with simple, interactive 
 exercises, <https://regexone.com/>{:target="_blank"}.
 
-* Daniel L. Schwartz, [ODD Customization Resources](../ODDresources).
+* Daniel L. Schwartz, "[ODD Customization](https://dlschwartz.github.io/digital-history/ODD/){:target="_blank"}".
 
-* Daniel L. Schwartz, [Schematron Resources](../schematron).
+* Daniel L. Schwartz, "[Schematron](https://dlschwartz.github.io/digital-history/schematron/){:target="_blank"}".
 
 * [TEI Customization](https://tei-c.org/guidelines/customization/){:target="_blank"}.
 
