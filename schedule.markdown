@@ -74,6 +74,7 @@ _____
 "[Varieties of Textual Structure](https://books.openedition.org/oep/688){:target="_blank"}," in _What Is the Text Encoding Initiative?_
 * “[Introduction to Text Encoding and the TEI](https://teibyexample.org/tutorials/TBED00v00.htm){:target="_blank"},” TEI by Example, January 19, 2018.
 * Look at all three presentations in "[Designing Your First Project](https://devdh.org/lectures/design/){:target="_blank"}," in DevDH.org.
+* [TEI encoding assignment](../encoding)
 
 ### _Ludi_ prep
 * Joe Marini, "[XML Essential Training](https://www.linkedin.com/learning/xml-essential-training-2/welcome?u=74650722){:target="_blank"}," _inLearning_.
@@ -97,6 +98,7 @@ in _What Is the Text Encoding Initiative?_
 * Identify a text or texts you would like to encode for your project and bring an electronic copy to class.
 
 ### _Ludi_
+* Using the TEI Guidelines 
 * Encoding our texts 
 
 
