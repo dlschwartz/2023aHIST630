@@ -15,6 +15,11 @@ permalink: /schedule/
 _____
 ## 17 January 
 
+### Readings for presentation and discussion
+* Julia Flanders, “The Productive Unease of 21st-century Digital Scholarship,” _Digital Humanities Quarterly_ 3, no. 3 
+(2009), <http://www.digitalhumanities.org/dhq/vol/3/3/000055/000055.html>{:target="_blank"}.
+
+
 ### Discussion
 * Introduction to Digital Humanities and Public History
 * Themes and approach of the courses
@@ -30,13 +35,10 @@ _____
 ### Readings for presentation and discussion
 * Alan Liu, "Imagining the New Media Encounter," in _Companion to Digital Literary Studies_, ed. Susan Schreibman and Ray Siemens 
 (Oxford: Blackwell, 2008), <http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-3-1&toc.id=0&brand=9781405148641_brand>{:target="_blank"}.
-* Julia Flanders, “The Productive Unease of 21st-century Digital Scholarship,” _Digital Humanities Quarterly_ 3, no. 3 
-(2009), <http://www.digitalhumanities.org/dhq/vol/3/3/000055/000055.html>{:target="_blank"}.
 * Julia Flanders, “Collaboration and Dissent: Challenges of Collaborative Standards for Digital
 Humanities,” _Collaborative Research in the Digital Humanities_, ed. Willard McCarty and Marilyn Deegan (Farnham, Surrey, England: 
 Ashgate, 2011), <https://ebookcentral.proquest.com/lib/tamucs/reader.action?docID=879680&ppg=80>{:target="_blank"}.
-* Charlotte Roueché, “Why Do We Mark Up Texts?,” in _Collaborative Research in the Digital Humanities_,
-ed. Willard McCarty and Marilyn Deegan (Farnham, Surrey, England: Ashgate, 2011), <https://ebookcentral.proquest.com/lib/tamucs/reader.action?docID=879680&ppg=168>{:target="_blank"}.
+
 
 ### _Ludi_ prep
 * Aaron Stewart, "Learning GitHub," _inLearning_, May 14, 2019, <https://www.linkedin.com/learning/learning-github>{:target="_blank"}.
@@ -49,6 +51,8 @@ _____
 
 ### Readings for presentation and discussion
 * David Birnbaum, "What is XML and why should humanists care? An even gentler introduction to XML," August 28, 2015, <http://dh.obdurodon.org/what-is-xml.xhtml>{:target="_blank"}.
+* Charlotte Roueché, “Why Do We Mark Up Texts?,” in _Collaborative Research in the Digital Humanities_,
+ed. Willard McCarty and Marilyn Deegan (Farnham, Surrey, England: Ashgate, 2011), <https://ebookcentral.proquest.com/lib/tamucs/reader.action?docID=879680&ppg=168>{:target="_blank"}.
 * _XQuery for Humanists_, Chs. 1-2.
 
 ### Programming Assignment due before class 
@@ -261,15 +265,12 @@ _____
 _____
 ## 25 April
 
-### _Ludi_ prep
-* Clifford Anderson, “Introduction to TEI Publisher”
-* “Documentation,” TEI Publisher
-* Read (more peruse actually) Michelle Taylor and David A. Michelson, "TEI Encoding Manual for the Syriac 
-Gazetteer," <https://github.com/srophe/srophe-app-data/wiki/TEI-Encoding-Manual-for-The-Syriac-Gazetteer>{:target="_blank"}. 
+### Readings for presentation and discussion
+* Michelle Taylor and David A. Michelson, "[TEI Encoding Manual for the Syriac 
+Gazetteer](https://github.com/srophe/srophe-app-data/wiki/TEI-Encoding-Manual-for-The-Syriac-Gazetteer){:target="_blank"}." 
 
 ### _Ludi_
-* TEI Publisher
-* Documentation using the GitHub Wiki  
+* Project development
 	
 _____
 ## 2 May
