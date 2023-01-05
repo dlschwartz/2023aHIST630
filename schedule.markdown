@@ -49,7 +49,7 @@ _____
 
 ### Readings for presentation and discussion
 * David Birnbaum, "What is XML and why should humanists care? An even gentler introduction to XML," August 28, 2015, <http://dh.obdurodon.org/what-is-xml.xhtml>{:target="_blank"}.
-* _XQuery for Humanists_, Chs. 1-3.
+* _XQuery for Humanists_, Chs. 1-2.
 
 ### Programming Assignment due before class 
 * Complete the Markdown Tutorial <https://www.markdowntutorial.com/>{:target="_blank"}.
@@ -63,7 +63,7 @@ _____
 ### _Ludi_ 
 * Markdown exercises
 * XML encoding exercises
-* Introduction to XQuery
+* Working with XQuery
 
 _____
 ## 7 February
@@ -124,10 +124,10 @@ _____
 ### Readings for presentation and discussion
 * David J. Birnbaum, “[What can XPath do for me?](http://dh.obdurodon.org/introduction-xpath.xhtml){:target="_blank"}” and 
 “[The XPath Functions We Use Most](http://dh.obdurodon.org/functions.xhtml){:target="_blank"}.”
-* _XQuery for Humanists_, Ch. 4
+* _XQuery for Humanists_, Chs. 3-4
 
 ### Programming assignment due before class 
-* Complete the Questions and Exercises sections of _XQuery for Humanists_, Ch. 4
+* Complete the Questions and Exercises sections of _XQuery for Humanists_, Ch. 4.
 
 ### _Ludi_
 * Review Questions and Exercises in _XQuery for Humanists_, Ch. 4 
