@@ -7,9 +7,12 @@ permalink: /about-page/
 # Introduction
 This course will give you the foundations of what you will need to develop a digital edition. 
 However, actually launching a digital edition of a text with the kind of features expected in 
-a modern website is slightly beyond what we can manage in one semester. The goal of this assignment 
-is to teach you how to launch a simple website that will give you and your work a public face. The 
-software skills you will learn are the same ones I have used to develop this syllabus, create 
+a modern website is slightly beyond what we can manage in one semester. But we could not bring 
+ourselves to end this class without student having the ability to create their own website.
+
+The goal of this assignment is to teach you how to launch a simple website that 
+will give you and your work a public face. The software skills you will learn 
+are the same ones I have used to develop this syllabus, create 
 an [online CV]( https://dlschwartz.github.io/cv/){:target="_blank"}, and create pedagogical 
 resources: [DH resources](https://dlschwartz.github.io/digital-history/){:target="_blank"} 
 and [Writing History]( https://dlschwartz.github.io/WritingHistory/){:target="_blank"}. 
