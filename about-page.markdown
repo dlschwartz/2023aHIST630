@@ -44,6 +44,7 @@ and implementing the project.
 * Markdown 
 	* One or more links to external websites or anchors in your own website 
 (i.e., section headings designated in markdown with one or more "#" characters)
+	* One or more embedded code blocks in your technical documentation page
 	* One or more photos
 
 # _Nota Bene_
