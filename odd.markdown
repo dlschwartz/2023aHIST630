@@ -4,17 +4,19 @@ title: ODD Customization Assignment
 permalink: /odd/
 ---
 
+# Introduction
+The TEI Guidelines are a set of agreed-upon standards used by a large
+segment of the Digital Humanities community to encode textual material. The use 
+of standards ensures maximal reusability of your work.
 
-Documentation is a critical component of a digital project. 
-In addition to teaching text encoding skills, this course aims to 
-train students in a variety of documentation skills necessary 
-to complete a quality digital project. The ODD customization 
-assignment is one of two ways that you will document 
-your TEI encoding. Your TEI files must validate your encoding 
-against a customized schema you have created.
+But, as a widely used standard, the TEI must accommodate many approaches to digitizing
+texts, some of which you may not want or need in your project. It can be very helpful 
+(for reasons we will discuss in class) to use a customization of the TEI
+rather than the entire P5 All guidelines. This assignment will teach you 
+why it is desirable to customize the TEI and how to do so.
 
-#### To Submit for Evaluation
-- You will produce an ODD file customizing the TEI guidelines 
+# To Submit for Evaluation
+- You will upload to GitHub an ODD file customizing the TEI guidelines 
 for the use of your particular project. It should include 
 the following: 
 	- Restriction of the elements used in your project.
@@ -32,11 +34,6 @@ the following:
 	[\<remarks\> ](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-remarks.html){:target="_blank"}
 	element offer a prose description 
 	of how your project is using that element.
-- You will use Roma, <https://romabeta.tei-c.org/settings>{:target="_blank"}, 
-to transform your ODD file into a RelaxNG file and associate your TEI files with 
-that customized schema. 
+- You will use oXygen XML editor to transform your ODD into RelaxNG, upload that GitHub, 
+and validate your TEI file(s) against that RelaxNG. 
 
-#### Due Date
-- You should work locally on your own machine but commit and push (preferably to a draft 
-repository) in GitHub on a regular basis. You will need to share a link to these files on GitHub by the 
-due date for final work [11 December](../schedule/#11-december).

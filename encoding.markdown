@@ -5,7 +5,7 @@ permalink: /encoding/
 ---
 
 
-#### Choosing a Text to Encode
+# Choosing a Text to Encode
 Each student will need to identify a text or collection of texts to encode using 
 the TEI. I would recommend that you choose something you are interested in 
 studying and you may want to think of this assignment as an opportunity to 
@@ -22,12 +22,12 @@ qualifiers because I want you to gain experience with different kinds of data
 and different approaches to using the TEI. 
 
 - Length
-	- Think in terms of 5-8 pages of text. This can be an entire text, a piece of a 
+	- Think in terms of 7-10 pages of text. This can be an entire text, a piece of a 
 	large text, or several small texts. If you do very simple encoding of a 
 	very straightforward text, this might not be very much work. If you have a difficult 
-	text and mark things up in extreem detail, 5 pages very well might take you 
+	text and mark things up in extreem detail, 7 pages very well might take you 
 	beyond a reasonable amount of work. At the beginning, aim to find a text in 
-	this 5-8 page range. If your research aims are better met by a shorter or longer 
+	this 7-10 page range. If your research aims are better met by a shorter or longer 
 	text, I am happy to discuss a different scale for your encoding project.
 - Content
 	- Your encoding project needs to include both the encoding of a text and also 
@@ -35,24 +35,22 @@ and different approaches to using the TEI.
 	persons, places, or content that would benefit from a taxonomy describing that 
 	content. Such content could include physical objects, concepts, etc.
 
-#### To Submit for Evaluation
+# To Submit for Evaluation
 - Text Encoding 
-	- You will produce a TEI-encoded XML file for each text or piece of text you 
+	- You will upload to GitHub a TEI-encoded XML file for each text or piece of text you 
 	encode. For some students, this will be one XML file. Other students will produce 
 	several XML files, one for each smaller text they encode. 
 - Standoff Markup
 	- You will also need to mark up information about the content of your text as discussed 
 	above. If you have a taxonomy as one of your two additional data types, that 
 	will appear in the header of your main TEI file. If you have one or both of 
-	the others, you will encode that in a separate TEI file. We will discuss standoff 
-	markup in more detail in class.
+	the others, you will encode that in a separate TEI file and upload it to GitHub. 
+	We will discuss standoff markup in more detail in class.
 - Valid TEI
 	- Your TEI files must validate against a customized schema you have created. See, 
 	the [ODD Customization Assignment](../odd/).
 
-#### Due Date
-- You should work locally on your own machine but commit and push (preferably to a draft 
-repository) in GitHub on a regular basis. You will need to share a link to these files on GitHub by the 
-due date for final work [11 December](../schedule/#11-december).
+
+
 	
 
