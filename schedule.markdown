@@ -183,6 +183,7 @@ _____
 ## 28 March
 
 ### Readings for presentation and discussion
+* [P] Kirstyn J. Leuner, "[Locating Women’s Book History in The Stainforth Library of Women’s Writing](https://muse-jhu-edu.srv-proxy1.library.tamu.edu/article/799650){:target="_blank"}," _Studies in English Literature 1500-1900_, 60.4 (2020).
 * Lou Burnard, “[Customizing the TEI](https://books.openedition.org/oep/692){:target="_blank"},” 
 in _What Is the Text Encoding Initiative?_
 * Lou Burnard, “What is TEI Conformance, and Why Should You Care?,” _Journal of the Text Encoding Initiative_ [Online], 
@@ -203,7 +204,7 @@ _____
 ## 4 April
 
 ### Readings for presentation and discussion
-* [P] Kirstyn J. Leuner, "[Locating Women’s Book History in The Stainforth Library of Women’s Writing](https://muse-jhu-edu.srv-proxy1.library.tamu.edu/article/799650){:target="_blank"}," _Studies in English Literature 1500-1900_, 60.4 (2020).
+* [P] Elyse Graham, “[Joyce and the Graveyard of Digital Empires](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/38d72a93-4bad-48c2-b709-59145658dc98##ch29){:target="_blank"}," in _Debates in the Digital Humanities_, 2019.
 * Notice of Funding Opportunity (NOFO), NEH, [Digital Humanities Advancement Grants](https://www.neh.gov/sites/default/files/inline-files/DHAG%202023%20.pdf){:target="_blank"}.
 * Lisa Spiro, “[Tips on Writing a Successful Grant Proposal](https://digitalscholarship.wordpress.com/2008/09/09/tips-on-writing-a-successful-grant-proposal/){:target="_blank"}."
 
