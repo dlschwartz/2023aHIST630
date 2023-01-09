@@ -5,7 +5,7 @@ hidden: false
 permalink: /policies/
 ---
 
-[Required Textbook](#required-textbook) 
+[Required Textbook](#required-textbook)  
 [Grading Policy](#grading-policy)  
 [Intellectual Property Rights](#intellectual-property-rights)  
 [Attendance](#attendance)  
