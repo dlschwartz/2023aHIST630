@@ -5,6 +5,7 @@ hidden: false
 permalink: /policies/
 ---
 
+[Required Textbook](#required-textbook)
 [Grading Policy](#grading-policy)  
 [Intellectual Property Rights](#intellectual-property-rights)  
 [Attendance](#attendance)  
@@ -12,6 +13,13 @@ permalink: /policies/
 [Academic Integrity](#academic-integrity)  
 [Diversity and Respect](#diversity-and-respect)  
 [Title IX and Statement on Limits to Confidentiality](#title-ix-and-statement-on-limits-to-confidentiality)
+
+
+_____ 
+### Required Textbook
+Clifford B. Anderson and Joseph C. Witenkowski. XQuery for Humanists. College Station, TX: Texas A&M University Press, 2020, ISBN 978-1623498290.
+
+
 
 _____
 ### Grading Policy
