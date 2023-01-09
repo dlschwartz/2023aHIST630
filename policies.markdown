@@ -5,7 +5,7 @@ hidden: false
 permalink: /policies/
 ---
 
-[Required Textbook](#required-textbook)
+[Required Textbook](#required-textbook) 
 [Grading Policy](#grading-policy)  
 [Intellectual Property Rights](#intellectual-property-rights)  
 [Attendance](#attendance)  
@@ -42,7 +42,7 @@ _____
 | F | below 60% |
 
 
-
+_____
 ### Intellectual Property Rights
 Most of the assignments for this course will be posted on GitHub. For this and
 other publically available research output you should include an intellectual property
