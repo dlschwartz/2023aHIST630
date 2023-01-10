@@ -4,7 +4,7 @@ title: About Page Assignment
 permalink: /about-page/
 ---
 
-# Introduction
+## Introduction
 This course will give you the foundations of what you will need to develop a digital edition. 
 However, actually launching a digital edition of a text with the kind of features expected in 
 a modern website is slightly beyond what we can manage in one semester. But we could not bring 
@@ -26,13 +26,13 @@ should be the kind of thing that you will find as part of a well-documented onli
 We will discuss project documentation and “About” pages during class. In that context we will 
 discuss the specific content you will want to include on your “About” page. 
 
-# GitHub Pages and Jekyll Resources
+## GitHub Pages and Jekyll Resources
 * Amanda Visconti, “[Building a Static Website with Jekyll and GitHub Pages]( https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages){:target="_blank"},” _The Programming Historian_ 5 (2016).
 * Nate Barbettini, “[Learning Static Site Building with Jekyll]( https://www.linkedin.com/learning/learning-static-site-building-with-jekyll){:target="_blank"},” _inLearning_, December 14, 2018.
 * [Jekyll Website]( https://jekyllrb.com/){:target="_blank"}.
 
 
-# To Submit for Evaluation
+## To Submit for Evaluation
 * A public GitHub repo containing the Markdown files for your site. 
 * A link to a website containing the “About Page” for your digital project. 
 * Site Content
@@ -47,7 +47,7 @@ and implementing the project.
 	* One or more embedded code blocks in your technical documentation page
 	* One or more photos
 
-# _Nota Bene_
+## _Nota Bene_
 You will find that coding often entails looking at other people’s code and using it to do 
 what you want. Now that you are proficient in using GitHub, you should be able to find 
 the sites I link to above on my GitHub page and see how I’ve done things. 

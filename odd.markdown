@@ -4,7 +4,7 @@ title: ODD Customization Assignment
 permalink: /odd/
 ---
 
-# Introduction
+## Introduction
 The TEI Guidelines are a set of agreed-upon standards used by a large
 segment of the Digital Humanities community to encode textual material. The use 
 of standards ensures maximal reusability of your work.
@@ -15,7 +15,7 @@ texts, some of which you may not want or need in your project. It can be very he
 rather than the entire P5 All guidelines. This assignment will teach you 
 why it is desirable to customize the TEI and how to do so.
 
-# To Submit for Evaluation
+## To Submit for Evaluation
 - You will upload to GitHub an ODD file customizing the TEI guidelines 
 for the use of your particular project. It should include 
 the following: 

@@ -5,10 +5,10 @@ hidden: false
 permalink: /resources/
 ---
 
-##### Under construction! Keep an eye out for additions to this list of online resources for doing digital history.
+Page under construction! Keep an eye out for additions to this list of online resources for doing digital history.
 
 
-#### Tutorials and Aids
+## Tutorials and Aids
 * Syd Bauman and Julia Flanders, "Overview of TEI 
 Customization," <https://wwp.northeastern.edu/outreach/seminars/intro_2018-04/presentations/customization/customization_overview_00.xhtml>{:target="_blank"}. 
 
@@ -44,7 +44,7 @@ This site contains 80 peer-reviewed, open source, open access lessons covering m
 Historians use in doing and publishing their research.
 
 
-#### Readings and Publications
+## Readings and Publications
 * Daniel J. Cohen and Roy Rosenzweig, _Digtial History: A Guide to Gathering, Preserving, 
 and Presenting the Past on the Web_, Center for History and New Media, <http://chnm.gmu.edu/digitalhistory/>{:target="_blank"}.
 

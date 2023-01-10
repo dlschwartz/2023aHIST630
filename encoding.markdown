@@ -5,7 +5,7 @@ permalink: /encoding/
 ---
 
 
-# Choosing a Text to Encode
+## Choosing a Text to Encode
 Each student will need to identify a text or collection of texts to encode using 
 the TEI. I would recommend that you choose something you are interested in 
 studying and you may want to think of this assignment as an opportunity to 
@@ -35,7 +35,7 @@ and different approaches to using the TEI.
 	persons, places, or content that would benefit from a taxonomy describing that 
 	content. Such content could include physical objects, concepts, etc.
 
-# To Submit for Evaluation
+## To Submit for Evaluation
 - Text Encoding 
 	- You will upload to GitHub a TEI-encoded XML file for each text or piece of text you 
 	encode. For some students, this will be one XML file. Other students will produce 

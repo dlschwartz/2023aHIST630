@@ -5,7 +5,7 @@ hidden: false
 permalink: /schedule/
 ---
 
-# Class Dates
+## Class Dates
 
 | [24 Jan](#24-january) | [31 Jan](#31-january) | [7 Feb](#7-february) | [14 Feb](#14-february) |
 | [21 Feb](#21-february) | [28 Feb](#28-february) | [7 Mar](#7-march) | 14 Mar: SPRING BREAK |

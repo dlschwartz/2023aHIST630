@@ -15,7 +15,7 @@ permalink: /policies/
 
 
 _____
-### Grading Policy
+## Grading Policy
 
 |  | Assessment |
 | :---: | :------- |
@@ -36,13 +36,13 @@ _____
 
 
 _____
-### Intellectual Property Rights
+## Intellectual Property Rights
 Most of the assignments for this course will be posted on GitHub. For this and
 other publically available research output you should include an intellectual property
 declaration, license information, or a statement rejecting such rights.
 
 _____
-### Attendance
+## Attendance
 You will need to attend this class regularly. The structure of this course is
 essentially flipped. You will read outside of class and you will complete
 online tutorials outside of class. Class time will be spent in discussion
@@ -60,7 +60,7 @@ to the Class Participation portion of the grade.
 University Policy: <http://student-rules.tamu.edu/rule07>{:target="_blank"}.
 
 _____
-### ADA Policy Statement
+## ADA Policy Statement
 The Americans with Disabilities Act (ADA) is a federal anti-discrimination statute
 that provides comprehensive civil rights protection for persons with disabilities.
 Among other things, this legislation requires that all students with disabilities
@@ -71,13 +71,13 @@ building at the Student Services at White Creek complex on west campus or call
 979-845-1637. For additional information visit <http://disability.tamu.edu/>{:target="_blank"}.
 
 _____
-### Academic Integrity
+## Academic Integrity
 "An Aggie does not lie, cheat or steal,
 or tolerate those who do." Students are expected to be aware of the Aggie Honor
 Council Rules and Procedures, see <http://aggiehonor.tamu.edu/>{:target="_blank"}.
 
 _____
-### Diversity and Respect
+## Diversity and Respect
 The study of cultural and human diversity is a key
 component of the study of history. Please respect the different experiences,
 beliefs, and values expressed by your fellow students and instructor, and refrain
@@ -92,7 +92,7 @@ orientations, socioeconomic statuses, and work experiences.
 
 _____
 
-### Title IX and Statement on Limits to Confidentiality
+## Title IX and Statement on Limits to Confidentiality
 Texas A&M University and the College of Liberal Arts are committed to fostering
 a learning environment that is safe and productive for all. University policies
 and federal and state laws provide guidance for achieving such an environment.
