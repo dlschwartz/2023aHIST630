@@ -13,7 +13,7 @@ permalink: /schedule/
 | [18 Apr](#18-april) | [25 Apr](#25-april) | [2 May](#2-may) | [5 May](#5-may): Coursework due |
 
 _____
-## 17 January 
+## [17 January](#class-dates) 
 
 ### Readings for presentation and discussion
 * Julia Flanders, “The Productive Unease of 21st-century Digital Scholarship,” _Digital Humanities Quarterly_ 3, no. 3 
@@ -30,7 +30,7 @@ _____
 * Setting up GitHub Pages
 
 _____
-## 24 January
+## [24 January](#class-dates) 
 
 ### Readings for presentation and discussion
 * [P] Alan Liu, "Imagining the New Media Encounter," in _Companion to Digital Literary Studies_, ed. Susan Schreibman and Ray Siemens 
@@ -49,7 +49,7 @@ Ashgate, 2011), <https://ebookcentral.proquest.com/lib/tamucs/reader.action?docI
 * GitHub pages
 
 _____
-## 31 January
+## [31 January](#class-dates)
 
 ### Readings for presentation and discussion
 * [P] David Birnbaum, "What is XML and why should humanists care? An even gentler introduction to XML," August 28, 2015, <http://dh.obdurodon.org/what-is-xml.xhtml>{:target="_blank"}.
@@ -72,7 +72,7 @@ ed. Willard McCarty and Marilyn Deegan (Farnham, Surrey, England: Ashgate, 2011)
 * Working with XQuery
 
 _____
-## 7 February
+## [7 February](#class-dates)
 ### Readings for presentation and discussion
 * [P] Stephen Robertson and Lincoln Mullen, "[Arguing with Digital History: Patterns of Historical Interpretation](https://doi.org/10.1093/jsh/shab015){:target="_blank"}," _Journal of Social History_, Volume 54, Issue 4, Summer 2021, Pages 1005–1022. 
 * Lou Burnard, “[Introduction](https://books.openedition.org/oep/679){:target="_blank"}," 
@@ -93,7 +93,7 @@ _____
 
 
 _____
-## 14 February
+## [14 February](#class-dates)
 
 ### Readings for presentation and discussion
 * Lou Burnard, “[The TEI Cornucopia, Part One](https://books.openedition.org/oep/689){:target="_blank"}," and 
@@ -110,7 +110,7 @@ in _What Is the Text Encoding Initiative?_
 
 
 _____
-## 21 February
+## [21 February](#class-dates)
 
 ### Readings for presentation and discussion
 * [P] James Baker, "Preserving Your Research Data," _Programming Historian_ 3 (2014), <https://doi.org/10.46430/phen0039>{:target="_blank"}.
@@ -128,7 +128,7 @@ _____
 * TEI encoded text(s) including a TEI header and text with named entities marked up.
 
 _____
-## 28 February
+## [28 February](#class-dates)
 
 ### Readings for presentation and discussion
 * David J. Birnbaum, “[What can XPath do for me?](http://dh.obdurodon.org/introduction-xpath.xhtml){:target="_blank"}” and 
@@ -148,7 +148,7 @@ metadata and a body containing @xml:id attributes and basic information about th
 entities in your encoded text(s).
 
 _____
-## 7 March
+## [7 March](#class-dates)
 
 ### Readings for presentation and discussion 
 * _XQuery for Humanists_, Ch. 5
@@ -162,11 +162,11 @@ _____
 
 
 _____
-## 14 March
+## [14 March](#class-dates)
 SPRING BREAK!
 
 _____
-## 21 March
+## [21 March](#class-dates)
 
 ### Readings for presentation and discussion 
 * _XQuery for Humanists_, Ch. 6
@@ -180,7 +180,7 @@ _____
 
 
 _____
-## 28 March
+## [28 March](#class-dates)
 
 ### Readings for presentation and discussion
 * [P] Kirstyn J. Leuner, "[Locating Women’s Book History in The Stainforth Library of Women’s Writing](https://muse-jhu-edu.srv-proxy1.library.tamu.edu/article/799650){:target="_blank"}," _Studies in English Literature 1500-1900_, 60.4 (2020).
@@ -201,7 +201,7 @@ Issue 12 (July 2019), <http://journals.openedition.org/jtei/1777>{:target="_blan
 
 
 _____
-## 4 April
+## [4 April](#class-dates)
 
 ### Readings for presentation and discussion
 * [P] Elyse Graham, “[Joyce and the Graveyard of Digital Empires](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/38d72a93-4bad-48c2-b709-59145658dc98##ch29){:target="_blank"}," in _Debates in the Digital Humanities_, 2019.
@@ -226,7 +226,7 @@ should also constrain attributes and their values.
 
 
 _____
-## 11 April
+## [11 April](#class-dates)
 
 ### Readings for presentation and discussion
 * [P] Daniel J. Story, Jo Guldi, Tim Hitchcock, and Michelle Moravec, "[History’s Future in the Age of the Internet](https://academic.oup.com/ahr/article/125/4/1337/5933592){:target="_blank"}", _The American Historical Review_, 125.4 (2020), 1337–46.
@@ -245,7 +245,7 @@ _____
 
 
 _____
-## 18 April
+## [18 April](#class-dates)
 
 ### Readings for presentation and discussion
 * [P] Richard Jean So, "[Introduction: Contemporary Culture After Data Science](https://culturalanalytics.org/article/22335-introduction-contemporary-culture-after-data-science){:target="_blank"}", _Journal of Cultural Analytics_, 6.2 (2021).
@@ -268,7 +268,7 @@ _____
 
 
 _____
-## 25 April
+## [25 April](#class-dates)
 
 ### Readings for presentation and discussion
 * Michelle Taylor and David A. Michelson, "[TEI Encoding Manual for the Syriac 
@@ -278,7 +278,7 @@ Gazetteer](https://github.com/srophe/srophe-app-data/wiki/TEI-Encoding-Manual-fo
 * Project development
 	
 _____
-## 2 May
+## [2 May](#class-dates)
 
 ### Readings for presentation and discussion
 * Lou Burnard, "[Conclusion: What _is_ the TEI?](https://books.openedition.org/oep/693){:target="_blank"},” _What Is the Text Encoding Initiative?_ 
@@ -286,7 +286,7 @@ _____
 
 ### In-Class Presentations on Digital Editions
 _____
-## 5 May
+## [5 May](#class-dates)
 
 ### Final Projects Due
 * [TEI Encoding Assignment](../encoding/)
