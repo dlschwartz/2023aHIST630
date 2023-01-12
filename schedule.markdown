@@ -7,10 +7,10 @@ permalink: /schedule/
 
 ## Class Dates
 
-| [24 Jan](#24-january) | [31 Jan](#31-january) | [7 Feb](#7-february) | [14 Feb](#14-february) |
-| [21 Feb](#21-february) | [28 Feb](#28-february) | [7 Mar](#7-march) | 14 Mar: SPRING BREAK |
-| [21 Mar](#21-march) |[28 Mar](#28-march) | [4 Apr](#4-april) | [11 Apr](#11-april) |
-| [18 Apr](#18-april) | [25 Apr](#25-april) | [2 May](#2-may) | [5 May](#5-may): Coursework due |
+| [17 January](#17-January) | [24 Jan](#24-january) | [31 Jan](#31-january) | [7 Feb](#7-february) |
+| [14 Feb](#14-february) | [21 Feb](#21-february) | [28 Feb](#28-february) | [7 Mar](#7-march) |
+| 14 Mar: SPRING BREAK | [21 Mar](#21-march) |[28 Mar](#28-march) | [4 Apr](#4-april) |
+| [11 Apr](#11-april) | [18 Apr](#18-april) | [25 Apr](#25-april) | [5 May](#5-may): Coursework due |
 
 _____
 ## [17 January](#class-dates) 
@@ -269,16 +269,6 @@ _____
 
 _____
 ## [25 April](#class-dates)
-
-### Readings for presentation and discussion
-* Michelle Taylor and David A. Michelson, "[TEI Encoding Manual for the Syriac 
-Gazetteer](https://github.com/srophe/srophe-app-data/wiki/TEI-Encoding-Manual-for-The-Syriac-Gazetteer){:target="_blank"}." 
-
-### _Ludi_
-* Project development
-	
-_____
-## [2 May](#class-dates)
 
 ### Readings for presentation and discussion
 * Lou Burnard, "[Conclusion: What _is_ the TEI?](https://books.openedition.org/oep/693){:target="_blank"},” _What Is the Text Encoding Initiative?_ 
