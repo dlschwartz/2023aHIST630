@@ -7,6 +7,10 @@ permalink: /resources/
 
 Page under construction! Keep an eye out for additions to this list of online resources for doing digital history.
 
+## Software
+* [GitHub](https://github.com/){:target="_blank"}
+* ["Building a static website with Jekyll and GitHub Pages"](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages){:target="_blank"} at [The Programming Historian](https://programminghistorian.org/){:target="_blank"}
+* [oXygen XML editor](https://www.oxygenxml.com/){:target="_blank"}
 
 ## Tutorials and Aids
 * Syd Bauman and Julia Flanders, "Overview of TEI 
