@@ -8,7 +8,7 @@ layout: home
 
 
 _____
-***HIST 630:*** Digital Methods for Historical Research  
+***HIST 630:*** Programming for Historians  
 ***Semester:*** Spring 2023    
 ***Time:*** Tuesday 1:35-4:25  
 ***Location:*** Glasscock 206 / LAAH 433
