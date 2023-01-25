@@ -9,8 +9,12 @@ Page under construction! Keep an eye out for additions to this list of online re
 
 ## Software
 * [GitHub](https://github.com/){:target="_blank"}
-* ["Building a static website with Jekyll and GitHub Pages"](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages){:target="_blank"} at [The Programming Historian](https://programminghistorian.org/){:target="_blank"}
-	* Windows Fix: Install Ruby+Devkit 3.1.3-1 (x64) at <https://rubyinstaller.org/downloads/>
+* ["Building a static website with Jekyll and GitHub Pages"](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages){:target="_blank"} at [The Programming Historian](https://programminghistorian.org/){:target="_blank"}.
+	
+	***Alternate Windows Directions!*** Work through the Programming Historian lesson up to #6 in 
+	[On Windows](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages#on-windows-){:target="_blank"}. 
+	Don't do #7! Instead go over to the [Jekyll website](https://jekyllrb.com/docs/installation/windows/){:target="_blank"}
+	and follow the directions there (including the installation of the Devkit). After that, return to the Programming Historian and continue to follow the directions there.
 * [oXygen XML editor](https://www.oxygenxml.com/){:target="_blank"}
 
 ## Tutorials and Aids
