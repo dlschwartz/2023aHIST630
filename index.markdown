@@ -22,7 +22,7 @@ _______
 
 _______
 
-***Instructor:*** Dr. Lauren Liebe  
+***Associate Instructor:*** Dr. Lauren Liebe  
 ***Email:*** <leliebe@tamu.edu>  
 ***Office Location:*** LAAH 449   
 ***Office Hours:*** by appointment
