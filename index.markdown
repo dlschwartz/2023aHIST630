@@ -15,7 +15,7 @@ _____
 
 _______
 
-***Instructor:*** Dr. Daniel L. Schwartz  
+***Instructor of Record:*** Dr. Daniel L. Schwartz  
 ***Email:*** <daniel.schwartz@tamu.edu>  
 ***Office Location:*** LAAH 441 (not Glasscock!)  
 ***Office Hours:*** by appointment
