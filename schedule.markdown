@@ -139,8 +139,10 @@ _____
 * Complete the Questions and Exercises sections of _XQuery for Humanists_, Ch. 4.
 
 ### _Ludi_
+* Standoff Markup in TEI
 * Review Questions and Exercises in _XQuery for Humanists_, Ch. 4 
 * Using XPath in oXygen (without XQuery)
+* \[[Files for Class Today](https://drive.google.com/drive/folders/1uBdmAUutM0gGU4H-9HuDNMJekik7qeZ7?usp=share_link){:target="_blank"}\]
 
 ### Milestone due by Friday at 11:59pm 
 * A separate TEI file for standoff markup. It should contain a TEI header with relevant 
