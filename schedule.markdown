@@ -195,7 +195,7 @@ Issue 12 (July 2019), <http://journals.openedition.org/jtei/1777>{:target="_blan
 
 ### _Ludi_ prep
 * P5: Guidelines for Electronic Text Encoding and Interchange, [Ch. 22 “Documentation Elements”](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/TD.html){:target="_blank"}.
-* Schwartz, “[ODD Resources](../ODDresources)”
+* Schwartz, “[ODD Customization](https://dlschwartz.github.io/digital-history/ODD/){:target="_blank"}”
 
 ### _Ludi_
 * TEI Customization: ODD
@@ -238,7 +238,7 @@ _____
 ### _Ludi_ prep
 * Review David J. Birnbaum, “[What can XPath do for me?](http://dh.obdurodon.org/introduction-xpath.xhtml){:target="_blank"}” and 
 “[The XPath Functions We Use Most](http://dh.obdurodon.org/functions.xhtml){:target="_blank"}.”
-* Schwartz, “[Schematron Resources](../schematron)”
+* Schwartz, “[Schematron](https://dlschwartz.github.io/digital-history/schematron/){:target="_blank"}”
 
 ### _Ludi_
 * TEI Customization: Schematron
