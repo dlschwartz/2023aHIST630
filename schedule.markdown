@@ -179,6 +179,8 @@ _____
 ### _Ludi_
 * Review Questions and Exercises in _XQuery for Humanists_, Ch. 6 
 * Writing functions to query your encoded text(s)
+* * TEI Customization: ODD
+	* [Powerpoint](https://docs.google.com/presentation/d/1xg5bx1q0DWNh7TUFKm-ioR_5-Xyt8okf6TwFJn6VZNk/edit){:target="_blank"}
 
 
 _____
@@ -199,7 +201,6 @@ Issue 12 (July 2019), <http://journals.openedition.org/jtei/1777>{:target="_blan
 
 ### _Ludi_
 * TEI Customization: ODD
-	* [Powerpoint](https://docs.google.com/presentation/d/1xg5bx1q0DWNh7TUFKm-ioR_5-Xyt8okf6TwFJn6VZNk/edit){:target="_blank"}
 
 
 _____
@@ -213,6 +214,7 @@ _____
 ### Programing assignment due before class
 * [RegexOne: Learn Regular Expressions with Simple, Interactive Exercises](https://regexone.com/){:target="_blank"}. Complete each 
 exercise and take a screen shot of each successfully completed page.
+* OPTIONAL -- Doug Knox, [Understanding Regular Expressions](https://programminghistorian.org/en/lessons/understanding-regular-expressions#ordinary-search-and-replace){:target="_blank"}, at the Programming Historian.
 
 
 ### _Ludi_
