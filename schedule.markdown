@@ -179,7 +179,7 @@ _____
 ### _Ludi_
 * Review Questions and Exercises in _XQuery for Humanists_, Ch. 6 
 * Writing functions to query your encoded text(s)
-* * TEI Customization: ODD
+* TEI Customization: ODD
 	* [Powerpoint](https://docs.google.com/presentation/d/1xg5bx1q0DWNh7TUFKm-ioR_5-Xyt8okf6TwFJn6VZNk/edit){:target="_blank"}
 
 
