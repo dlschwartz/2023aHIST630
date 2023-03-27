@@ -180,7 +180,7 @@ _____
 * Review Questions and Exercises in _XQuery for Humanists_, Ch. 6 
 * Writing functions to query your encoded text(s)
 * TEI Customization: ODD
-	* [Powerpoint](https://docs.google.com/presentation/d/1xg5bx1q0DWNh7TUFKm-ioR_5-Xyt8okf6TwFJn6VZNk/edit){:target="_blank"}
+	* [Slides](https://docs.google.com/presentation/d/1xg5bx1q0DWNh7TUFKm-ioR_5-Xyt8okf6TwFJn6VZNk/edit){:target="_blank"}
 
 
 _____
@@ -202,7 +202,7 @@ Issue 12 (July 2019), <http://journals.openedition.org/jtei/1777>{:target="_blan
 ### _Ludi_
 * TEI Customization: ODD
 * Regular Expressions
-	* Powerpoint(https://docs.google.com/presentation/d/1vKRhmdwIlNG7dNz8Dfzb2WHndx9lZqauPLp5R-RnLeA/edit?usp=sharing){:target="_blank"}
+	* [Slides](https://docs.google.com/presentation/d/1vKRhmdwIlNG7dNz8Dfzb2WHndx9lZqauPLp5R-RnLeA/edit?usp=sharing){:target="_blank"}
 
 
 _____
