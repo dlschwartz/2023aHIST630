@@ -201,6 +201,8 @@ Issue 12 (July 2019), <http://journals.openedition.org/jtei/1777>{:target="_blan
 
 ### _Ludi_
 * TEI Customization: ODD
+* Regular Expressions
+	* Powerpoint(https://docs.google.com/presentation/d/1vKRhmdwIlNG7dNz8Dfzb2WHndx9lZqauPLp5R-RnLeA/edit?usp=sharing){:target="_blank"}
 
 
 _____
