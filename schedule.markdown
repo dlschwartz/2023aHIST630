@@ -223,6 +223,8 @@ exercise and take a screen shot of each successfully completed page.
 * Review exercises from RegexOne 
 * Using RegEx in oXygen find and replace
 * Combining RegEx and XPath for document editing and query
+* TEI Customization: Schematron
+	* [Slides](https://docs.google.com/presentation/d/10z8z4x_lP6wMAtP78l2aYuRQ6WCxHojr_14nfH-MzAw/edit?usp=sharing){:target="_blank"}
 
 ### Milestone due by Friday at 11:59pm
 * A TEI ODD customization that validates your TEI encoded text(s). It should allow only the 
@@ -245,8 +247,7 @@ _____
 * Schwartz, “[Schematron](https://dlschwartz.github.io/digital-history/schematron/){:target="_blank"}”
 
 ### _Ludi_
-* TEI Customization: Schematron
-	* [Powerpoint](https://docs.google.com/presentation/d/10z8z4x_lP6wMAtP78l2aYuRQ6WCxHojr_14nfH-MzAw/edit?usp=sharing){:target="_blank"}
+* Schematron
 
 
 
@@ -270,7 +271,7 @@ _____
 
 ### Milestones due by Friday at 11:59pm
 * Update of your ODD customization to include Schematron rules constraining your TEI encoding at specific XPath locations.
-* Update of your ODD customization to constraining the pointer attributes in your TEI encoding to the xml:ids in your standoff markup.
+* Update of your ODD customization to constraining the pointer attributes in your TEI encoding to the @xml:id attributes in your standoff markup.
 
 
 _____
