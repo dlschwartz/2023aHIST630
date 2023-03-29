@@ -139,8 +139,10 @@ _____
 * Complete the Questions and Exercises sections of _XQuery for Humanists_, Ch. 4.
 
 ### _Ludi_
+* Standoff Markup in TEI
 * Review Questions and Exercises in _XQuery for Humanists_, Ch. 4 
 * Using XPath in oXygen (without XQuery)
+* \[[Files for Class Today](https://drive.google.com/drive/folders/1uBdmAUutM0gGU4H-9HuDNMJekik7qeZ7?usp=share_link){:target="_blank"}\]
 
 ### Milestone due by Friday at 11:59pm 
 * A separate TEI file for standoff markup. It should contain a TEI header with relevant 
@@ -177,6 +179,8 @@ _____
 ### _Ludi_
 * Review Questions and Exercises in _XQuery for Humanists_, Ch. 6 
 * Writing functions to query your encoded text(s)
+* TEI Customization: ODD
+	* [Slides](https://docs.google.com/presentation/d/1xg5bx1q0DWNh7TUFKm-ioR_5-Xyt8okf6TwFJn6VZNk/edit){:target="_blank"}
 
 
 _____
@@ -193,11 +197,12 @@ Issue 12 (July 2019), <http://journals.openedition.org/jtei/1777>{:target="_blan
 
 ### _Ludi_ prep
 * P5: Guidelines for Electronic Text Encoding and Interchange, [Ch. 22 “Documentation Elements”](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/TD.html){:target="_blank"}.
-* Schwartz, “[ODD Resources](../ODDresources)”
+* Schwartz, “[ODD Customization](https://dlschwartz.github.io/digital-history/ODD/){:target="_blank"}”
 
 ### _Ludi_
 * TEI Customization: ODD
-	* [Powerpoint](https://docs.google.com/presentation/d/1xg5bx1q0DWNh7TUFKm-ioR_5-Xyt8okf6TwFJn6VZNk/edit){:target="_blank"}
+* Regular Expressions
+	* [Slides](https://docs.google.com/presentation/d/1vKRhmdwIlNG7dNz8Dfzb2WHndx9lZqauPLp5R-RnLeA/edit?usp=sharing){:target="_blank"}
 
 
 _____
@@ -211,12 +216,15 @@ _____
 ### Programing assignment due before class
 * [RegexOne: Learn Regular Expressions with Simple, Interactive Exercises](https://regexone.com/){:target="_blank"}. Complete each 
 exercise and take a screen shot of each successfully completed page.
+* OPTIONAL -- Doug Knox, [Understanding Regular Expressions](https://programminghistorian.org/en/lessons/understanding-regular-expressions#ordinary-search-and-replace){:target="_blank"}, at the Programming Historian.
 
 
 ### _Ludi_
 * Review exercises from RegexOne 
 * Using RegEx in oXygen find and replace
 * Combining RegEx and XPath for document editing and query
+* TEI Customization: Schematron
+	* [Slides](https://docs.google.com/presentation/d/10z8z4x_lP6wMAtP78l2aYuRQ6WCxHojr_14nfH-MzAw/edit?usp=sharing){:target="_blank"}
 
 ### Milestone due by Friday at 11:59pm
 * A TEI ODD customization that validates your TEI encoded text(s). It should allow only the 
@@ -236,11 +244,10 @@ _____
 ### _Ludi_ prep
 * Review David J. Birnbaum, “[What can XPath do for me?](http://dh.obdurodon.org/introduction-xpath.xhtml){:target="_blank"}” and 
 “[The XPath Functions We Use Most](http://dh.obdurodon.org/functions.xhtml){:target="_blank"}.”
-* Schwartz, “[Schematron Resources](../schematron)”
+* Schwartz, “[Schematron](https://dlschwartz.github.io/digital-history/schematron/){:target="_blank"}”
 
 ### _Ludi_
-* TEI Customization: Schematron
-	* [Powerpoint](https://docs.google.com/presentation/d/10z8z4x_lP6wMAtP78l2aYuRQ6WCxHojr_14nfH-MzAw/edit?usp=sharing){:target="_blank"}
+* Schematron
 
 
 
@@ -264,7 +271,7 @@ _____
 
 ### Milestones due by Friday at 11:59pm
 * Update of your ODD customization to include Schematron rules constraining your TEI encoding at specific XPath locations.
-* Update of your ODD customization to constraining the pointer attributes in your TEI encoding to the xml:ids in your standoff markup.
+* Update of your ODD customization to constraining the pointer attributes in your TEI encoding to the @xml:id attributes in your standoff markup.
 
 
 _____

@@ -15,14 +15,14 @@ _____
 
 _______
 
-***Instructor:*** Dr. Daniel L. Schwartz  
+***Instructor of Record:*** Dr. Daniel L. Schwartz  
 ***Email:*** <daniel.schwartz@tamu.edu>  
 ***Office Location:*** LAAH 441 (not Glasscock!)  
 ***Office Hours:*** by appointment
 
 _______
 
-***Instructor:*** Dr. Lauren Liebe  
+***Associate Instructor:*** Dr. Lauren Liebe  
 ***Email:*** <leliebe@tamu.edu>  
 ***Office Location:*** LAAH 449   
 ***Office Hours:*** by appointment
