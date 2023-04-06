@@ -271,7 +271,7 @@ _____
 
 ### Milestones due by Friday at 11:59pm
 * Update of your ODD customization to include Schematron rules constraining your TEI encoding at specific XPath locations.
-* Update of your ODD customization to constraining the pointer attributes in your TEI encoding to the @xml:id attributes in your standoff markup.
+* Update of your ODD customization to constrain @ref attributes in your TEI encoding to the @xml:id attributes in your standoff markup.
 
 
 _____
