@@ -262,7 +262,7 @@ _____
 * [W3C Schools HTML/CSS tutorial](https://www.w3schools.com/html/html_intro.asp), sections "Introduction" to "HTML Id."
 
 ### Programing assignment due before class
-* Complete exercises 4-6 in _XQuery for Humanists_, Ch. 8. For exercise 6, write a recursive typeswitch to convert one of your TEI files to HTML.
+* Complete _XQuery for Humanists_, Ch. 8 exercises 4-6. For exercise 6, write a recursive typeswitch to convert one of your TEI files to HTML.
 
 ### _Ludi_
 * HTML exercise
