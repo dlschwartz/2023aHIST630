@@ -248,6 +248,8 @@ _____
 
 ### _Ludi_
 * Schematron
+* XQuery: Typeswitch
+	* [Slides](https://docs.google.com/presentation/d/1l9Hfgd3B1fz5uDGGl1BKE2CHqEanQ21hmkfWMiQjszs/edit?usp=sharing){:target="_blank"}
 
 
 
