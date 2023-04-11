@@ -247,6 +247,8 @@ _____
 * Schwartz, “[Schematron](https://dlschwartz.github.io/digital-history/schematron/){:target="_blank"}”
 
 ### _Ludi_
+* ODD in the Wild
+	* [Slides](https://docs.google.com/presentation/d/1qblTHPgxAP_D1JDvpRWK83AdUHacGgDcMMS1K7Kk8xE/edit?usp=sharing){:target="_blank"}
 * Schematron
 * XQuery: Typeswitch
 	* [Slides](https://docs.google.com/presentation/d/1l9Hfgd3B1fz5uDGGl1BKE2CHqEanQ21hmkfWMiQjszs/edit?usp=sharing){:target="_blank"}
