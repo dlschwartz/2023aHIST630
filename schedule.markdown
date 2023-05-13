@@ -25,9 +25,9 @@ _____
 * Themes and approach of the courses
 
 ### _Ludi_ (on "_Ludi_" see ["Expectations"](../#expectations) on the home page)
-* Installing oXygen XML Editor
-* Setting up a GitHub account
-* Setting up GitHub Pages
+* Installing oXygen XML Editor <!-- make video and flip -->
+* Setting up a GitHub account <!-- make video and flip -->
+* Setting up GitHub Pages <!-- remove this assignment, just use GitHub wiki -->
 
 _____
 ## [24 January](#class-dates) 
@@ -43,6 +43,7 @@ Ashgate, 2011), <https://ebookcentral.proquest.com/lib/tamucs/reader.action?docI
 ### _Ludi_ prep
 * Aaron Stewart, "Learning GitHub," _inLearning_, May 14, 2019, <https://www.linkedin.com/learning/learning-github>{:target="_blank"}.
 * [About page assignment](../about-page/)
+<!-- make video and flip -->
 
 ### _Ludi_ 
 * Practice cloning GitHub repos, making branches, making changes, committing changes, pushing to GitHub, and merging branches.
@@ -85,10 +86,11 @@ _____
 
 ### _Ludi_ prep
 * Joe Marini, "[XML Essential Training](https://www.linkedin.com/learning/xml-essential-training-2/welcome?u=74650722){:target="_blank"}," _inLearning_.
+<!-- make video and flip. consider cutting this inLearning course, students didn't like it -->
 
 ### _Ludi_ 
-* Using oXygen XML Editor to mark up texts using the TEI
-* Optical Character Recognition (OCR)
+* Using oXygen XML Editor to mark up texts using the TEI <!-- make video and flip -->
+* Optical Character Recognition (OCR) <!-- make video and flip -->
 
 
 
@@ -105,8 +107,8 @@ in _What Is the Text Encoding Initiative?_
 * Identify a text or texts you would like to encode for your project and bring an electronic copy to class.
 
 ### _Ludi_
-* Using the TEI Guidelines 
-* Encoding our texts 
+* Using the TEI Guidelines <!-- make video and flip -->
+* Encoding our texts <!-- make video and flip -->
 
 
 _____
@@ -117,8 +119,8 @@ _____
 * Lou Burnard, “[The TEI Header](https://books.openedition.org/oep/691){:target="_blank"}," in _What Is the Text Encoding Initiative?_
 
 ### _Ludi_ prep
-* Begin marking up metadata about your source text in the header of your TEI document(s).
-* Mark up all named entities in your TEI document(s).
+* Begin marking up metadata about your source text in the header of your TEI document(s). <!-- make video and flip -->
+* Mark up all named entities in your TEI document(s). <!-- make video and flip -->
 
 ### _Ludi_
 * TEI header exercises 
@@ -134,6 +136,7 @@ _____
 * David J. Birnbaum, “[What can XPath do for me?](http://dh.obdurodon.org/introduction-xpath.xhtml){:target="_blank"}” and 
 “[The XPath Functions We Use Most](http://dh.obdurodon.org/functions.xhtml){:target="_blank"}.”
 * _XQuery for Humanists_, Chs. 3-4
+<!-- make video and flip -->
 
 ### Programming assignment due before class 
 * Complete the Questions and Exercises sections of _XQuery for Humanists_, Ch. 4.
@@ -153,7 +156,7 @@ _____
 ## [7 March](#class-dates)
 
 ### Readings for presentation and discussion 
-* _XQuery for Humanists_, Ch. 5
+* _XQuery for Humanists_, Ch. 5 <!-- make video and flip -->
 
 ### Programming assignment due before class 
 * Complete the Questions and Exercises sections of _XQuery for Humanists_, Ch. 5
@@ -171,7 +174,7 @@ _____
 ## [21 March](#class-dates)
 
 ### Readings for presentation and discussion 
-* _XQuery for Humanists_, Ch. 6
+* _XQuery for Humanists_, Ch. 6 <!-- make video and flip -->
 
 ### Programming assignment due before class 
 * Complete the Questions and Exercises sections of _XQuery for Humanists_, Ch. 6
@@ -179,7 +182,7 @@ _____
 ### _Ludi_
 * Review Questions and Exercises in _XQuery for Humanists_, Ch. 6 
 * Writing functions to query your encoded text(s)
-* TEI Customization: ODD
+* TEI Customization: ODD <!-- make video and flip -->
 	* [Slides](https://docs.google.com/presentation/d/1xg5bx1q0DWNh7TUFKm-ioR_5-Xyt8okf6TwFJn6VZNk/edit){:target="_blank"}
 
 
@@ -198,10 +201,11 @@ Issue 12 (July 2019), <http://journals.openedition.org/jtei/1777>{:target="_blan
 ### _Ludi_ prep
 * P5: Guidelines for Electronic Text Encoding and Interchange, [Ch. 22 “Documentation Elements”](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/TD.html){:target="_blank"}.
 * Schwartz, “[ODD Customization](https://dlschwartz.github.io/digital-history/ODD/){:target="_blank"}”
+<!-- make video and flip -->
 
 ### _Ludi_
 * TEI Customization: ODD
-* Regular Expressions
+* Regular Expressions <!-- make video and flip -->
 	* [Slides](https://docs.google.com/presentation/d/1vKRhmdwIlNG7dNz8Dfzb2WHndx9lZqauPLp5R-RnLeA/edit?usp=sharing){:target="_blank"}
 
 
@@ -217,13 +221,14 @@ _____
 * [RegexOne: Learn Regular Expressions with Simple, Interactive Exercises](https://regexone.com/){:target="_blank"}. Complete each 
 exercise and take a screen shot of each successfully completed page.
 * OPTIONAL -- Doug Knox, [Understanding Regular Expressions](https://programminghistorian.org/en/lessons/understanding-regular-expressions#ordinary-search-and-replace){:target="_blank"}, at the Programming Historian.
+<!-- make video and flip. If cutting Jekyll, consider putting this back in as an assignment. -->
 
 
 ### _Ludi_
 * Review exercises from RegexOne 
-* Using RegEx in oXygen find and replace
-* Combining RegEx and XPath for document editing and query
-* TEI Customization: Schematron
+* Using RegEx in oXygen find and replace <!-- make video and flip -->
+* Combining RegEx and XPath for document editing and query <!-- make video and flip -->
+* TEI Customization: Schematron <!-- make video and flip -->
 	* [Slides](https://docs.google.com/presentation/d/10z8z4x_lP6wMAtP78l2aYuRQ6WCxHojr_14nfH-MzAw/edit?usp=sharing){:target="_blank"}
 
 ### Milestone due by Friday at 11:59pm
@@ -269,8 +274,8 @@ _____
 * Complete _XQuery for Humanists_, Ch. 8 exercises 4-6. For exercise 6, write a recursive typeswitch to convert one of your TEI files to HTML.
 
 ### _Ludi_
-* HTML exercise
-* CSS exercise
+* HTML exercise <!-- make video and flip -->
+* CSS exercise <!-- make video and flip -->
 * Review XQuery for Humanists, Ch. 8, exercises 4-6
 
 ### Milestones due by Friday at 11:59pm
